@@ -3,3 +3,4 @@ making changes first time
 making changes through branch example
 
 updating from github
+updating from git locally
